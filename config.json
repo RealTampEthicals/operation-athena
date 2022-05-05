@@ -1,0 +1,9 @@
+{
+	"ip":"6b6t.org",
+	"port": 25565,
+	"name": "PL4T0N1X_BOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (lolbruhahh77) (lolbruhahh77)",
+	"login-cmd":"/login (lolbruhahh77)"
+}
